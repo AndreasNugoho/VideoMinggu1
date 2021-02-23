@@ -41,4 +41,4 @@ bunga_bulan_pr = total_bunga_pr / waktu
 print("Total bunga dalam rupiah = Rp.",total_bunga_rp)
 print("Total bunga dalam persen (%) = ","{:.0f}".format(total_bunga_pr),"%")
 print("Total bunga dalam rupiah perbulan = Rp.","{:.0f}".format(bunga_bulan_rp)
-print("Total bunga dalam persen perbulan (%) = ","{:.0f}".format(bunga_bulan_pr),"%")sad    
+print("Total bunga dalam persen perbulan (%) = ","{:.0f}".format(bunga_bulan_pr),"%")
